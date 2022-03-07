@@ -16,7 +16,7 @@
     <li> No campo Full Name você deve inserir seu nome completo</li>
     <li> Clique no campo criar email para o sistema gerar um email a partir do seu nome completo e exbira na tela do lado direito</li><br><br>
   </ol> <br><br>  
-     <img src="screenshot/InserindoDados"></img><br><br> 
+     <img src="screenshots/InserindoDados"></img><br><br> 
  
   
  ## Para utilizarmos o metodo de inserir enviando uma lista com a extensão TXT( bloco de notas) com os nomes completos, podera ser feito da seguinte forma:
@@ -25,7 +25,7 @@
     <li> Clique no choose file para que sua lista de nomes seja importada para o sistema e automaticamente os emails serão criados e exibidos no lado direito da    tela</li>
   </ol>
   <br><br>
-       <img src="screenshot/InserindoLista"></img><br><br>
+       <img src="screenshots//InserindoLista"></img><br><br>
  Emails criados atraves da lista .TXT <br><br>
-       <img src="screenshot/dadosDireita"></img><br><br>
+       <img src="screenshots/dadosDireita"></img><br><br>
   
