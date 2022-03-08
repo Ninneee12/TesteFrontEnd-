@@ -6,7 +6,7 @@
 <br><br>
 ## Podemos gerar email de duas formas:
 <ol>
-  <li> colocando as informações manualmene</li>
+  <li> colocando as informações manualmente</li>
   <li>Importando um arquivo no formato .TXT</li>
   </ol>
   
